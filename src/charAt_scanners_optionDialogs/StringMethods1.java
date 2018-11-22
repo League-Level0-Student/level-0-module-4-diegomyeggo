@@ -29,6 +29,6 @@ food.length();
 		//             for char 'b', then print "b is at index 1"
 		
 	}
-}
+
 
 
